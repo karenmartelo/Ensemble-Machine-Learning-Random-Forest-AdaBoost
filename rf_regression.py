@@ -1,14 +1,9 @@
-# https://deeplearningcourses.com/c/machine-learning-in-python-random-forest-adaboost
-# https://www.udemy.com/machine-learning-in-python-random-forest-adaboost
-# uses house dataset from https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+
+# house dataset from https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 # Alternate data source: https://archive.org/download/housing_202405/housing.data
-# put all files in the folder ../large_files
 from __future__ import print_function, division
 from future.utils import iteritems
 from builtins import range, input
-# Note: you may need to update your version of future
-# sudo pip install -U future
-
 
 import numpy as np
 import pandas as pd
