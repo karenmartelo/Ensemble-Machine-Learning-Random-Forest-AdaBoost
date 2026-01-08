@@ -1,6 +1,4 @@
 
-# house dataset from https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
-# Alternate data source: https://archive.org/download/housing_202405/housing.data
 from __future__ import print_function, division
 from future.utils import iteritems
 from builtins import range, input
